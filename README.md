@@ -1,2 +1,2 @@
 # Amazon-Clone
-I tried to clone the amazon website with the help of HTML and CSS. I have created the UI only and haven't applied any JS for its functionality.  
+Creating an Amazon clone using HTML and CSS. Crafting a visually appealing and responsive interface to mirror the original's user-friendly design. Passionate about learning and implementing essential features for a seamless shopping experience. Join me in this coding journey!
