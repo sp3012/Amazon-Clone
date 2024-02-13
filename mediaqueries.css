@@ -1,0 +1,220 @@
+@media screen and (max-width: 1200px) {
+    .nav-search {
+        width: 53%;
+    }
+
+    .nav-second {
+        font-size: 0.85rem;
+    }
+
+}
+
+@media screen and (max-width: 900px) {
+    .nav-search {
+        width: 44%;
+    }
+
+    .nav-second {
+        font-size: 0.75rem;
+    }
+
+    .add-sec {
+        font-size: 0.95rem;
+    }
+
+    .hero-msg p {
+        font-size: 0.80rem;
+        padding: 1.1rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    .box {
+        height: 70%;
+        width: 31%;
+
+    }
+
+    .box-image {
+        background-position: center;
+        height: 200px;
+    }
+
+    .foot-pannel1 {
+        font-size: 0.80rem;
+    }
+
+    ul p {
+        font-size: 0.85rem;
+    }
+
+    ul a {
+        font-size: 0.75rem;
+    }
+
+    .pages a {
+        font-size: 0.80rem;
+    }
+
+    .copyright {
+        font-size: 0.80rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .nav-logo {
+        width: 75px;
+    }
+
+
+    .logo {
+        height: 40px;
+        width: 80px;
+        margin: 0 0.1s5rem;
+        margin-top: 0.25rem;
+    }
+
+    .nav-address {
+        display: none;
+        border-radius: 5px;
+    }
+
+    .nav-search {
+        width: 44%;
+        border-radius: 5px;
+        border-color: none;
+    }
+
+    .search-select {
+        display: none;
+    }
+
+    .search-input {
+        padding: 0.2rem;
+        font-size: 0.75rem;
+        border-radius: 5px 0 0 5px;
+    }
+
+    .search-icon {
+        font-size: 1rem;
+    }
+
+    .nav-signin,
+    .nav-second {
+        display: none;
+    }
+
+    .nav-signin-mobile {
+        display: block;
+        margin: 0 0.5rem;
+    }
+
+    .nav-signin-mobile span {
+        font-size: 0.75rem;
+    }
+
+    .nav-second-mobile {
+        font-size: 0.80rem;
+    }
+
+    .nav-cart i {
+        font-size: 1.2rem
+    }
+
+    .nav-cart p {
+        font-size: 0.85rem;
+        margin-right: 0.35rem;
+    }
+
+    .panel {
+        height: 30px;
+    }
+
+    .panel-all {
+        font-size: 0.85rem;
+        margin-right: -1.25rem;
+    }
+
+    .panel-ops {
+        width: 80%;
+    }
+
+    .panel-ops p {
+        font-size: 0.70rem;
+    }
+
+    .hero-section {
+        height: 185px;
+    }
+
+    .hero-msg {
+        height: 25px;
+        text-align: center;
+    }
+
+    .hero-msg p {
+        font-size: 0.60rem;
+    }
+
+    .box {
+        padding-top: 14px;
+    }
+
+    .box-content {
+        margin: 0 0.75rem;
+    }
+
+    h2 {
+        font-size: 0.78rem;
+    }
+
+    .box-image {
+        height: 108px;
+    }
+
+    .box-content p {
+        font-size: 0.70rem;
+    }
+
+    .foot-pannel1 {
+        height: 33px;
+        font-size: 0.65rem;
+    }
+
+    .foot-pannel2 {
+        height: 304px;
+        justify-content: start;
+    }
+
+    .foot-pannel2 ul {
+      
+    }
+
+    ul p {
+        font-size: 0.50rem;
+    }
+
+    ul a {
+        font-size: 0.45rem;
+    }
+
+    .pages a {
+        font-size: 0.50rem;
+    }
+
+    .copyright {
+        font-size: 0.50rem;
+    }
+
+    .foot-pannel3 {
+        height: 45px;
+    }
+
+    .foot-pannel4 {
+        height: 50px;
+    }
+
+}

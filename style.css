@@ -107,6 +107,10 @@ span{
     font-weight: 700;
 }
 
+.nav-signin-mobile {
+    display: none;
+}
+
 /** box6  **/
 
 .nav-cart i {
